@@ -115,6 +115,7 @@ Maintained by [Ian Alloway](https://github.com/ianalloway). Contributions welcom
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling library for regression analysis, time series, and hypothesis testing on sports data.
 - [optuna](https://github.com/optuna/optuna) - Hyperparameter optimization framework for tuning sports prediction model parameters.
 - [PuLP](https://github.com/coin-or/pulp) - Linear programming library useful for DFS lineup optimization and bankroll allocation.
+- [SportsBench](https://github.com/blocksharkcom/SportsBench) - Benchmarks frontier LLMs (GPT-5, Claude, Gemini, Grok, DeepSeek) predicting real matches, with built-in de-vig, expected value, fractional Kelly staking and closing-line value grading.
 
 ## R Libraries
 
