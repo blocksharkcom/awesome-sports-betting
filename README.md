@@ -35,6 +35,7 @@ Maintained by [Ian Alloway](https://github.com/ianalloway). Contributions welcom
 - [Odds API (odds-api.com)](https://odds-api.com/) - Real-time and historical odds comparison API covering major US and European sportsbooks.
 - [BetBrain API](https://www.betbrain.com/) - Odds comparison data from 200+ bookmakers across 30+ sports.
 - [Pinnacle API](https://www.pinnacle.com/en/api) - Direct API access to Pinnacle's sharp lines, widely regarded as the market benchmark.
+- [PinnRadar](https://pinnradar.com/) - Real-time Pinnacle odds API (live and prematch) over REST, WebSocket and SSE, with dropping-odds alerts and a free tier. 
 - [Kambi API](https://kambi.com/) - B2B sportsbook technology provider powering DraftKings, Unibet, and others.
 - [DraftKings API](https://sportsbook.draftkings.com/) - Unofficial endpoints for retrieving DraftKings odds and market data.
 - [FanDuel API](https://sportsbook.fanduel.com/) - Unofficial endpoints for FanDuel sportsbook odds retrieval.
